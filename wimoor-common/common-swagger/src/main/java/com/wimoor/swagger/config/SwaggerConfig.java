@@ -83,7 +83,7 @@ public class SwaggerConfig {
         return new ApiInfoBuilder()
                 .title("Wimoor 接口文档")
                 .description("如有疑问，请联系开发工程师")
-                .contact(new Contact("深圳市万墨信息科技", "https://www.wimoor.com", "developer@wimoor.com"))
+                .contact(new Contact("东方闪电", "https://www.wimoor.com", "developer@wimoor.com"))
                 .version("1.0")
                 .build();
     }
